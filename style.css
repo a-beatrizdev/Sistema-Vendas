@@ -51,3 +51,12 @@ button:hover {
   transform: scale(1.05);
 }
 
+.logo-box {
+  background-color: #EDEDED;
+  padding: 30px 40px;
+  border-radius: 80px;
+}
+
+.logo-box img {
+  width: 320px;
+}
