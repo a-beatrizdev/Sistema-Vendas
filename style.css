@@ -35,3 +35,18 @@ body {
   font-size: 20px;
   margin-bottom: 50px;
 }
+
+button {
+  background: linear-gradient(90deg, #3A4FD8, #2E3EBB);
+  border: none;
+  color: white;
+  padding: 14px 40px;
+  border-radius: 25px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
