@@ -60,3 +60,15 @@ button:hover {
 .logo-box img {
   width: 320px;
 }
+
+.logo-box img {
+  width: 360px;
+  height: auto;
+  display: block;
+}
+
+.logo-box {
+  background-color: #EDEDED;
+  padding: 50px 60px;
+  border-radius: 40px;
+}
