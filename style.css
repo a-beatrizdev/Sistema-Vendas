@@ -88,6 +88,14 @@ button:hover {
 }
 
 .container {
-  padding: 100px;
-  gap: 60px;
+  padding: 80px;
+  gap: 30px;
+}
+
+.logo-box img {
+  border-radius: 30px;
+}
+
+.content {
+  margin-right: -20px;
 }
