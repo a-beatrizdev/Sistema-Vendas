@@ -18,3 +18,20 @@ body {
   justify-content: space-between;
   padding: 80px;
 }
+
+.content {
+  color: white;
+  max-width: 500px;
+}
+
+.content h1 {
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 30px;
+}
+
+.content p {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
