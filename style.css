@@ -76,3 +76,13 @@ button:hover {
 .logo-box {
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
+
+.container {
+  align-items: center;
+}
+
+.logo-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
